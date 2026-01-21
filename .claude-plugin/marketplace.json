@@ -1,0 +1,32 @@
+{
+  "name": "health",
+  "owner": {
+    "name": "Aisha Yusaf",
+    "url": "https://medium.com/@new_nomad"
+  },
+  "metadata": {
+    "description": "claude code health nutrition plugins - disclaimer not medical advice",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "nutrition",
+      "source": "./plugins/nutrition",
+      "description": "nutrition place holder text",
+      "version": "1.0.0",
+      "keywords": [
+        "health",
+        "nutrition",
+        "perimenopause",
+        "women",
+        "skills"
+      ],
+      "author": {
+        "name": "Aisha Yusaf",
+        "url": "https://medium.com/@new_nomad"
+      },
+      "repository": "https://github.com/thenewnomad/health"
+    }
+  ]
+}

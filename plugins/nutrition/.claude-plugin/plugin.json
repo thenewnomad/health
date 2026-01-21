@@ -1,0 +1,18 @@
+{
+  "name": "nutrition",
+  "version": "1.0.0",
+  "description": "placeholder text",
+  "author": {
+    "name": "Aisha Yusaf",
+    "url": "https://medium.com/@new_nomad"
+  },
+  "repository": "https://github.com/thenewnomad/health",
+  "license": "MIT",
+  "keywords": [
+    "health",
+    "nutrition",
+    "perimenopause",
+    "women",
+    "skills"
+  ]
+}
